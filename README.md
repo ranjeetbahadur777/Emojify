@@ -1,2 +1,2 @@
 # Emojify
-Emojifies imagaes in realtime thorugh camera
+Emojifies images in realtime thorugh camera
